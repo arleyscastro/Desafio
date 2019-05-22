@@ -1,0 +1,38 @@
+﻿@model UI.AppWeb.Models.EmpresaViewModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Deleção de empresa</h1>
+
+<h2>Tem certeza de que deseja excluir esta empresa?</h2>
+<div>
+    <h4>Usando a EmpresaViewModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CNPJ)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CNPJ)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Porte)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Porte)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <a asp-action="Index">Voltar para a Listagem</a>
+    </form>
+</div>

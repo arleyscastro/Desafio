@@ -1,0 +1,9 @@
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\App.Domain\bin\Debug\netcoreapp2.2\App.Domain.deps.json
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\App.Domain\bin\Debug\netcoreapp2.2\App.Domain.dll
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\App.Domain\bin\Debug\netcoreapp2.2\App.Domain.pdb
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\App.Domain\obj\Debug\netcoreapp2.2\App.Domain.csprojAssemblyReference.cache
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\App.Domain\obj\Debug\netcoreapp2.2\App.Domain.csproj.CoreCompileInputs.cache
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\App.Domain\obj\Debug\netcoreapp2.2\App.Domain.AssemblyInfoInputs.cache
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\App.Domain\obj\Debug\netcoreapp2.2\App.Domain.AssemblyInfo.cs
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\App.Domain\obj\Debug\netcoreapp2.2\App.Domain.dll
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\App.Domain\obj\Debug\netcoreapp2.2\App.Domain.pdb

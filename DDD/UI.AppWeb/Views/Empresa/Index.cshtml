@@ -1,0 +1,63 @@
+﻿@model IEnumerable<UI.AppWeb.Models.EmpresaViewModel>
+
+@{
+    ViewData["Title"] = "List";
+}
+
+<h2>Listagem</h2>
+
+<p>
+    <a asp-action="Create">Criar nova empresa</a>
+</p>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Idempresa)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CNPJ)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Porte)
+        </th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Idempresa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CNPJ)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Porte)
+            </td>
+            <td>
+                <a href="@Url.Action("Edit", "Empresa", new { id = item.Idempresa })">
+                    <i class="fas fa-edit"></i>
+                </a> |
+                <a href="@Url.Action("Details", "Empresa", new { id = item.Idempresa })">
+                    <i class="fas fa-search"></i>
+                </a> |
+                <a href="@Url.Action("Delete", "Empresa", new { id = item.Idempresa })">
+                    <i class="fas fa-trash-alt"></i>
+                </a> |
+                <a href="javascript:void(0)" id="ajaxSearch" propId="@item.Idempresa">
+                    <i class="far fa-eye"></i>
+                </a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

@@ -1,0 +1,14 @@
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.deps.json
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.json
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.dev.json
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.dll
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.pdb
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\Infra\bin\Debug\netcoreapp2.2\App.Domain.dll
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\Infra\bin\Debug\netcoreapp2.2\App.Domain.pdb
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CoreCompileInputs.cache
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.dll
+D:\Arleys\OneDrive\Arleys\ProjetosAulaCS\FJA\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.pdb
